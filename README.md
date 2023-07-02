@@ -1,1 +1,0 @@
-# nt8-discord-share
